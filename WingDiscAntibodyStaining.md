@@ -10,7 +10,7 @@ Antibody Staining of Imaginal discs and larval ovaries
 	•	4% paraformaldehyde dissolved in 1x PBS with 50mM EGTA  (from a 0.5M stock of EGTA - may require NaOH to dissolve). This solution should be made in advance (in the fumehood, on a stir/heating plate), and stored in 1mL aliquots at -20 degrees celsius. Mix well before adding fixative to tissues.
 	•	Be aware of that 4% paraformaldehyde with EGTA may not work. In that case, use 4% paraformaldehyde without EGTA.
 
-Methanol : Transfer tissue directly with forceps into a basket with 1x PBS in a micro-titer plate. 1000ul per well for 3~5 min. at RT. Some antibodies show low binding activity with methanol fixed tissues.
+**Methanol**: Transfer tissue directly with forceps into a basket with methanol in a micro-titer plate. 500ul per well for 3~5 min. at RT. *Note:* _Some antibodies show low binding activity with methanol fixed tissues_.
 	•	for storage at -20 degrees, remove methanol & add 100% ethanol after methanol fixation.
 	•	Skip this step for alpha-ct antibody
 
