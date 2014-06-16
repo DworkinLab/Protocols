@@ -54,13 +54,14 @@ Antibody Staining of Imaginal discs and larval ovaries
 
 Pre-absorption step: Fix embryos as described in White (1998). Store in ethanol at -20 degrees C. Before using the embryos for pre-absorption, rinse X2, wash 3X5 minutes in PBT. In PBTBS, dilute antibody 1:10 (if possible), based on final concentration and amount of antibody to be used. Place diluted antibody 1:1 with embryos (i.e. equal volume of embryos and diluted antibody). Allow pre-absorption to occur for at least 1hr at room temperature, or O.N at 4 degrees Celsius. Dilute antibody to final concentration in PBTBS and use.
 
-anti-fade: From Goldstein (pp383).
+anti-fade: From Goldstein (pp383):
+
 - 1.25g DABCO (sigma D-2522)
 - Dissolved in 15mL PBS (1x). PBS should be at pH 7.4 (7.3-7.5 range)
 - Add 35mL Ultra pure Glycerol
 - Mix Gently for ~1-2 hours and store in 500 microL aliquots at -20 degrees C.
-- 
-- - We also mix Hoechst into the anti-fade as a nuclear marker. Mix 1 microL Hoechst:10000 microL anti-fade. Sometimes this is not bright enough so we do 1:1000. This is stable for ~ 1 month in the freezer. Store Hoects at -20C for long term, and some at 4C for short term use (~6 months).
+
+We also mix Hoechst into the anti-fade as a nuclear marker. Mix 1 microL Hoechst:10000 microL anti-fade. Sometimes this is not bright enough so we do 1:1000. This is stable for ~ 1 month in the freezer. Store Hoects at -20C for long term, and some at 4C for short term use (~6 months).
 
 
 4% para-formaldehyde:
