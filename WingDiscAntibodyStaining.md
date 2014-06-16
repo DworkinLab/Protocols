@@ -63,7 +63,8 @@ anti-fade: From Goldstein (pp383).
 - - We also mix Hoechst into the anti-fade as a nuclear marker. Mix 1 microL Hoechst:10000 microL anti-fade. Sometimes this is not bright enough so we do 1:1000. This is stable for ~ 1 month in the freezer. Store Hoects at -20C for long term, and some at 4C for short term use (~6 months).
 
 
-4% para-formaldehyde
+4% para-formaldehyde:
+
 1. 100mL 1xPBS
 2. Pour 1xPBS into a conical flask containing 4g of paraformadehyde (powder).
 3. Cover with parafilm and take to fumehood.
