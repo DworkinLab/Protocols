@@ -1,7 +1,0 @@
-# Approaches to automating counting wing cells on a Drosophila adult wing.
-
-THis is currently less a protocol, and more a list of different approaches that are currently being used (along with some references)
-
-## [FijiWings](http://www.ncbi.nlm.nih.gov/pubmed/23797110)
-
-This is NIH IMage/Fiji set of macros to help capture all of the wing trichomes and estimate cell number. It is not super clear how well this works, 
