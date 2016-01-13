@@ -5,7 +5,7 @@ THis is currently less a protocol, and more a list of different approaches that 
 
 ## Manual counting
 
-i.e. Take an image of a fixed area (10X or 20X objective) and count number of hairs. Then compute how many times this fits into a wing compartment (or other unit).  Cell size is computed by dividing cell number by compartment area.
+i.e. Take an image of a fixed area (10X or 20X objective) and count number of hairs. Then compute how many times this fits into a wing compartment (or other unit).  Cell size is computed by dividing cell number by compartment area. There are many papers that do this (including contemporary ones). Apparently this goes back to Dobzhansky 1929!
 
 
 ## [FijiWings](http://www.ncbi.nlm.nih.gov/pubmed/23797110)
@@ -30,13 +30,14 @@ Which is best?
 ### Contrast
 
 ### Depth of field
+- We have done some tests on our LeicaM125 Stereoscope (25X and 50X total magnification in colour and monochrome). We noticed that when the iris diaphram is 100% open (so more light, but less depth of field) we seem to get much sharper deliniation of the trichomes. At first this seemed odd to me, but likely the increase in depth of field means that the image is averaging across across a greater depth. If the trichomes are really lying in a single plane, then it would be best to have low depth of field (but fine focusing). It is also worth noting that even at the highest magnification (100X total in the ocular, 50X in the camera), it is probably not close enough for a very small (within compartment image). Probably worth trying a brightfield with 20X objective (200X total).
 
 ### Brightness
-
+TBD
 ### Mounting media
 
 ### Objective
 Assume the highest quality objective that will fit the whole wing in the field of view is best (i.e. a 4X or 5X plan apochromatic lense)
 
 ### Brightfield upright? Brightfield inverted? stereoscope (white or black background)?
-
+- In terms of white vs black background (at least using the standard backgrounds), the black background for the M125 stereoscope (reflected light) was useless for counting trichomes.
