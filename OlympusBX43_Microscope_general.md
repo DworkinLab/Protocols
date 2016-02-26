@@ -18,6 +18,9 @@ This scope was purchased and optimized for two purposes.
 - As is commonly the case, the higher magnification lenses (10X, 20X and 40X) need to be used with the condensor in, so you will need to set up the microscope under [Kohler Illumination](http://microscopy.berkeley.edu/courses/TLM/condenser/kohler.html). This takes less than 1 minute, and is worth checking each time when you are using the scope.
 
 
+## Some specifics about the filters we have
+- DAPI filter (OSF-D50LPBX3, DAPI-50LP-A-OFF; 377/50X, BS409, 409M). Is to be used for Hoechst 33342
+
 ## Using the microscope for capturing wing images **just for splining**
 
 ## Using the microscope for capturing wing images for **splining and/or wing hair counts**
