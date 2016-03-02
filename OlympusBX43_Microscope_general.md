@@ -2,6 +2,11 @@
 
 These are some general notes for using the Olympus BX 43 "upright" microscope in room 413LSB.
 
+## General Microscopy links (primers and such)
+1. [Microscopy Resource center](http://micro.magnet.fsu.edu/primer/index.html). From very basic to very detailed. You could spend weeks on this site!
+2. [Basics of light microscopy guide](http://www.well.ox.ac.uk/_asset/file/the-zeiss-guide-to-the-basics-of-light-microscopy.pdf)
+3. [Guide to image acquisition](http://jcb.rupress.org/content/172/1/9.full)
+
 ##General notes
 This scope was purchased and optimized for two purposes. 
 1. Getting very quality images at relatively low magnification (2.5X and 4X objectives). In particular for adult morphological structures of Drosophila (wings and legs).
