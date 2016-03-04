@@ -12,7 +12,7 @@ This scope was purchased and optimized for two purposes.
 1. Getting very quality images at relatively low magnification (2.5X and 4X objectives). In particular for adult morphological structures of Drosophila (wings and legs).
 2. Getting high quality images of the developing structures (imaginal discs) for wings, legs, etc.
 
-- As such, this scope has very high quality 2X and 4X objectives (PLAN- apochromatic, see [here](http://www.olympus-lifescience.com/en/objectives/uplsapo/)  and [here](http://www.olympus-lifescience.com/en/objectives/plapon/) for more details. In particular these objectives had the highest numerical aperature I could afford, which (in combination with a good camera) should provide excellent detail of the images, including for counting wing hairs (cells) on the wing.
+- As such, this scope has very high quality 2X and 4X objectives (PLAN- apochromatic, see [here](http://www.olympus-lifescience.com/en/objectives/uplsapo/)  and [here](http://www.olympus-lifescience.com/en/objectives/plapon/) for more details. In particular these objectives had the highest numerical aperature I could afford, which (in combination with a good camera) should provide excellent detail of the images, including for counting wing hairs (cells) on the wing. These are also corrected for flatness of image (PLAN). However we still have to empirically test how well this flatness correction works (distortions near edge).
 
 - The higher magnification lenses (10X, 20X & 40X) are PLAN FLUORITE, which are still excellent quality, but not quite as high numerical aperature. These are more commonly used in our lab with fluorescence microscopy for the developing tissues to look at protein localization (in particular to count numbers of cells, or number of proliferating cells).
 
@@ -30,5 +30,11 @@ This scope was purchased and optimized for two purposes.
 
 ## Using the microscope for capturing wing images for **splining and/or wing hair counts**
 
-## Using the microscope for brigh
+## Using the microscope for brightfield
+
+
+## Other notes
+- [tradeoff between depth of field and resolution for open/closed iris diaphragm](http://www.leica-microsystems.com/products/microscope-objectives/labeling-of-objectives/iris-diaphragm/)
+- [Setting up Kohler illumination](http://zeiss-campus.magnet.fsu.edu/articles/basics/kohler.html) - Frankly there are tons of resources about this.
+- [Useful tutorial on field curvature/flatness](http://www.microscopyu.com/tutorials/java/aberrations/curvatureoffield/index.html)
 
