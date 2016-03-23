@@ -9,12 +9,10 @@ These are some general notes for using the Olympus BX 43 "upright" microscope in
 
 ##General notes
 This scope was purchased and optimized for two purposes. 
-1. Getting very quality images at relatively low magnification (2.5X and 4X objectives). In particular for adult morphological structures of Drosophila (wings and legs).
-2. Getting high quality images of the developing structures (imaginal discs) for wings, legs, etc.
+1. Getting very high quality images at relatively low magnification (2.5X and 4X objectives). In particular for adult morphological structures of Drosophila (wings and legs). These use plan apochromatic objectives (to maximize resolution and flatness of field).
+2. Getting high quality images of the developing structures (imaginal discs) for wings, legs, etc. We also have the plan apochromatic objectives for these. At higher magnification parallaxes increases (less flatness of field).
 
-- As such, this scope has very high quality 2X and 4X objectives (PLAN- apochromatic, see [here](http://www.olympus-lifescience.com/en/objectives/uplsapo/)  and [here](http://www.olympus-lifescience.com/en/objectives/plapon/) for more details. In particular these objectives had the highest numerical aperature I could afford, which (in combination with a good camera) should provide excellent detail of the images, including for counting wing hairs (cells) on the wing. These are also corrected for flatness of image (PLAN). However we still have to empirically test how well this flatness correction works (distortions near edge).
-
-- The higher magnification lenses (10X, 20X & 40X) are PLAN FLUORITE, which are still excellent quality, but not quite as high numerical aperature. These are more commonly used in our lab with fluorescence microscopy for the developing tissues to look at protein localization (in particular to count numbers of cells, or number of proliferating cells).
+- As such, this scope has the highest quality 2X, 4X, 10X, 20X and 40X objectives (PLAN- apochromatic, see [here](http://www.olympus-lifescience.com/en/objectives/uplsapo/)  and [here](http://www.olympus-lifescience.com/en/objectives/plapon/) for more details. In particular these objectives had the highest numerical aperature I could afford, which (in combination with a good camera) should provide excellent detail of the images, including for counting wing hairs (cells) on the wing. These are also corrected for flatness of image (PLAN). However we still have to empirically test how well this flatness correction works (parallax distortions near edge).
 
 - This microscope does not Nomarksi (Differential Interference Contrast). If you need this for your project, let me know as there are several other excellent microscopes in the building with this capability.
 
@@ -24,7 +22,14 @@ This scope was purchased and optimized for two purposes.
 
 
 ## Some specifics about the filters we have
-- DAPI filter (OSF-D50LPBX3, DAPI-50LP-A-OFF; 377/50X, BS409, 409M). Is to be used for Hoechst 33342
+- [DAPI filter](https://www.semrock.com/setdetails.aspx?id=2845) from Semrock (OSF-D50LPBX3, DAPI-50LP-A-OFF; 377/50X, BS409, 409M).
+- - Highly compatible with: Alexa Fluor 350, Alexa Fluor 405, Fluoro-Gold, LysoSensor Blue, Marina Blue, Pacific Blue).
+- - Compatible with: DyLight 350,DyLight 405, Hoechst 33258, Hoechst 33342, Hoechst 34580)
+- - See compatability with other fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2845).
+- [FITC filter](https://www.semrock.com/setdetails.aspx?id=2679) from Semrock (OSF3-FITC-A 1 FITC-A-BASIC-OFF;BAND PASS FILTER SET FITC, BODIPY, ALEXA488).
+- - Highly compatible with: Alexa Fluor 488, Fluo-4, FITC (Fluorescein)
+- - Compatible with: Calcein, GFP, Rhodamine 110, Rhodamine Green, super glow GFP, syber GOLD, syber green I, turbo GFP, wild type GFP
+- 
 
 ## Using the microscope for capturing wing images **just for splining**
 
