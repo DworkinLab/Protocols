@@ -23,17 +23,17 @@ This scope was purchased and optimized for two purposes.
 
 ## Some specifics about the filters we have:
 - [DAPI filter](https://www.semrock.com/setdetails.aspx?id=2845) from Semrock (OSF-D50LPBX3, DAPI-50LP-A-OFF; 377/50X, BS409, 409M).
-- - Highly compatible with: Alexa Fluor 350, Alexa Fluor 405, Fluoro-Gold, LysoSensor Blue, Marina Blue, Pacific Blue).
-- - Compatible with: DyLight 350,DyLight 405, Hoechst 33258, Hoechst 33342, Hoechst 34580).
-- - See compatability with other fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2845).
+     Highly compatible with: Alexa Fluor 350, Alexa Fluor 405, Fluoro-Gold, LysoSensor Blue, Marina Blue, Pacific Blue).
+     Compatible with: DyLight 350,DyLight 405, Hoechst 33258, Hoechst 33342, Hoechst 34580).
+    See compatability with other fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2845).
 - [FITC filter](https://www.semrock.com/setdetails.aspx?id=2679) from Semrock (OSF3-FITC-A 1 FITC-A-BASIC-OFF;BAND PASS FILTER SET FITC, BODIPY, ALEXA488).
-- - Highly compatible with: Alexa Fluor 488, Fluo-4, FITC (Fluorescein).
-- - Compatible with: Calcein, GFP, Rhodamine 110, Rhodamine Green, super glow GFP, syber GOLD, syber green I, turbo GFP, wild type GFP
-- - Compatability with other fluorophores is [here](https://www.semrock.com/setdetails.aspx?id=2679).
+     Highly compatible with: Alexa Fluor 488, Fluo-4, FITC (Fluorescein).
+     Compatible with: Calcein, GFP, Rhodamine 110, Rhodamine Green, super glow GFP, syber GOLD, syber green I, turbo GFP, wild type GFP
+    Compatability with other fluorophores is [here](https://www.semrock.com/setdetails.aspx?id=2679).
 - [Texas Red](https://www.semrock.com/setdetails.aspx?id=2683) from Semrock (OSF3-TXRED-A 1 TXRED-A-BASIC-OFF;BAND PASS FILTER SET TXRED, ALEXA 568).
-- - Highly compatible with:5-ROX,Alexa Fluor 568, mCherry, mRFP1 (but not mRFP).
-- - Compatabile with:DY-590, Propidium iodide
-- - Other compatible fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2683).
+    Highly compatible with:5-ROX,Alexa Fluor 568, mCherry, mRFP1 (but not mRFP).
+    Compatabile with:DY-590, Propidium iodide
+    Other compatible fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2683).
 
 ## Using the microscope for capturing wing images **just for splining**
 
