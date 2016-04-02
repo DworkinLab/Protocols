@@ -14,9 +14,9 @@ This scope was purchased and optimized for two purposes.
 
 - As such, this scope has the highest quality 2X, 4X, 10X, 20X and 40X objectives (PLAN- apochromatic, see [here](http://www.olympus-lifescience.com/en/objectives/uplsapo/)  and [here](http://www.olympus-lifescience.com/en/objectives/plapon/) for more details. In particular these objectives had the highest numerical aperature I could afford, which (in combination with a good camera) should provide excellent detail of the images, including for counting wing hairs (cells) on the wing. These are also corrected for flatness of image (PLAN). However we still have to empirically test how well this flatness correction works (parallax distortions near edge).
 
-- This microscope does not Nomarksi (Differential Interference Contrast). If you need this for your project, let me know as there are several other excellent microscopes in the building with this capability.
+- This microscope does not do Nomarksi (Differential Interference Contrast), or phase contrast. If you need this for your project, let me know as there are several other excellent microscopes in the building with this capability.
 
-- The current filters for fluorescent microscopy are for [DAPI](https://en.wikipedia.org/wiki/DAPI), [Texas Red](https://en.wikipedia.org/wiki/Texas_Red) (including Alexa594, DyLight594), Fluorescien/[FITC](https://en.wikipedia.org/wiki/Fluorescein_isothiocyanate) (Alexa 488, DyLight488), and [TRITC]().
+- The current filters for fluorescent microscopy are for [DAPI](https://en.wikipedia.org/wiki/DAPI), [Texas Red](https://en.wikipedia.org/wiki/Texas_Red) (possibly including Alexa594, DyLight594?), Fluorescien/[FITC](https://en.wikipedia.org/wiki/Fluorescein_isothiocyanate) (Alexa 488, DyLight488), and [TRITC]().
 
 - As is commonly the case, the higher magnification lenses (10X, 20X and 40X) need to be used with the condensor in, so you will need to set up the microscope under [Kohler Illumination](http://microscopy.berkeley.edu/courses/TLM/condenser/kohler.html). This takes less than 1 minute, and is worth checking each time when you are using the scope.
 
