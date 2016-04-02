@@ -1,12 +1,16 @@
-# Approaches to automating counting wing cells on a Drosophila adult wing.
+# Approaches to optimizing counting wing cells (trichomes) on adult Drosophila wings.
 
 THis is currently less a protocol, and more a list of different approaches that are currently being used (along with some references)
+
+## Trichomes are on both the dorsal and ventral surface
+Keep in mind that the adult Drosophila wing has both a dorsal and ventral surface. Each surface has trichomes. In our lab our protocol is to mount the wings ventral side down (ventral side facing the slide, dorsal side facing cover slip). This means that when we are imaging it on an upright microscope, the dorsal side of the wing will have the highest image quality. However, if *depth of field* is too high you may take an image with trichomes from both the dorsal and ventral surface.
+
+![Dorsal and Ventral surfaces of the Drosophila wing. From Marcus 2001. J. Anat. 199, pg 211-216]("https://github.com/DworkinLab/Protocols/blob/master/Marcus2001_Wing.tiff "Drosophila wing")
 
 
 ## Manual counting
 
 i.e. Take an image of a fixed area (10X or 20X objective) and count number of hairs. Then compute how many times this fits into a wing compartment (or other unit).  Cell size is computed by dividing cell number by compartment area. There are many papers that do this (including contemporary ones). Apparently this goes back to Dobzhansky 1929!
-
 
 ## [FijiWings](http://www.ncbi.nlm.nih.gov/pubmed/23797110)
 
@@ -48,3 +52,6 @@ Assume the highest quality objective that will fit the whole wing in the field o
 ### Brightfield upright? Brightfield inverted? stereoscope (white or black background)?
 - In terms of white vs black background (at least using the standard backgrounds), the black background for the M125 stereoscope (reflected light) was **useless** for counting trichomes.
 - Our Brightfield upright (Olympus BX43) seems to produce clear images with high resolution.
+
+## Not all regions of the adult wing have the same cell density
+If you are doing small regions of images (i.e. 75px^2) then keep in mind different regions of the adult wing vary in cell density (add ref).
