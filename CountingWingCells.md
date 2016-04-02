@@ -5,8 +5,9 @@ THis is currently less a protocol, and more a list of different approaches that 
 ## Trichomes are on both the dorsal and ventral surface
 Keep in mind that the adult Drosophila wing has both a dorsal and ventral surface. Each surface has trichomes. In our lab our protocol is to mount the wings ventral side down (ventral side facing the slide, dorsal side facing cover slip). This means that when we are imaging it on an upright microscope, the dorsal side of the wing will have the highest image quality. However, if *depth of field* is too high you may take an image with trichomes from both the dorsal and ventral surface.
 
-![Dorsal and Ventral surfaces of the Drosophila wing. From Marcus 2001. J. Anat. 199, pg 211-216](https://github.com/DworkinLab/Protocols/blob/master/Marcus2001_Wing.png "Drosophila wing")
+![Dorsal and Ventral surfaces of the Drosophila wing. From Marcus 2001. J. Anat. 199, pg 211-216](https://github.com/DworkinLab/Protocols/blob/master/Marcus2001_Wing.png =100x "Dorsal and Ventral surfaces of the Drosophila wing. From Marcus 2001. J. Anat. 199, pg 211-216")
 
+The figure above (Marcus 2001, J. Anatomy 199:211-216), shows an adult Drosophila wing. The filled (darkened) lines are veins on the dorsal side of the wings, with the unfilled lines being on the ventral side of the wing.
 
 ## Manual counting
 
