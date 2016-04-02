@@ -22,22 +22,29 @@ Images of fixed-size rectangles within each intervein region (IVR) at dorsal win
 ## Other Considerations
 
 ### Image Quality
-I assume that a higher quality (and "larger") image will be best. Need to test this.
+Our tests demonstrate (to no surprise) that using digital images with maximum resolution is best.
 
 ### Colour vs mono
-Which is best?
+Which is best? Still figuring this out (ID  - April 2016).
+
+### Bit Depth on images
+(8 vs 16) - Still testing.
 
 ### Contrast
-
+- Our tests suggest that setting up Kohler Illumination (i.e. proper set up of the field diaphragm at the light source) is very helpful. Keep in mind that the maximum field of view (when opening up the field diaphragm) is for the camera, not the ocular (eye piece).
+- 
 ### Depth of field
 - We have done some tests on our LeicaM125 Stereoscope (25X and 50X total magnification in colour and monochrome). We noticed that when the iris diaphram is 100% open (so more light, but less depth of field) we seem to get much sharper deliniation of the trichomes. At first this seemed odd to me, but likely the increase in depth of field means that the image is averaging across across a greater depth. If the trichomes are really lying in a single plane, then it would be best to have low depth of field (but fine focusing). It is also worth noting that even at the highest magnification (100X total in the ocular, 50X in the camera), it is probably not close enough for a very small (within compartment image). Probably worth trying a brightfield with 20X objective (200X total).
+
 
 ### Brightness
 TBD
 ### Mounting media
-
+- So far we have only tested our standard mounting media (70% glycerol in water with a drop of phenol to prevent micro-organism growth). 
+- 
 ### Objective
-Assume the highest quality objective that will fit the whole wing in the field of view is best (i.e. a 4X or 5X plan apochromatic lense)
+Assume the highest quality objective that will fit the whole wing in the field of view is best (i.e. a 4X  apochromatic lense). We are testing whether a 10X objective may be better (although depth of field, and seperating dorsal from ventral views of the wing is less clear).
 
 ### Brightfield upright? Brightfield inverted? stereoscope (white or black background)?
-- In terms of white vs black background (at least using the standard backgrounds), the black background for the M125 stereoscope (reflected light) was useless for counting trichomes.
+- In terms of white vs black background (at least using the standard backgrounds), the black background for the M125 stereoscope (reflected light) was **useless** for counting trichomes.
+- Our Brightfield upright (Olympus BX43) seems to produce clear images with high resolution.
