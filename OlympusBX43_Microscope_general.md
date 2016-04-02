@@ -35,9 +35,10 @@ This scope was purchased and optimized for two purposes.
 -    Compatabile with:DY-590, Propidium iodide
 -    Other compatible fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2683).
 - [TRITC](https://www.semrock.com/setdetails.aspx?id=2681) from Semrock (OSF3-TRITC-A 1 TRITC-A-BASIC-OFF;BAND PASS FILTER SET TRITC, ALEXA 546, DII)
--    Highly Compatabile with dTomato, 
+-    Highly Compatabile with dTomato 
 -    Compatabile with Alexa Fluor® 546, mRuby, Propidium Iodide (PI), TRITC (Tetramethylrhodamine) - "reddish" appearance
--    
+
+   
 ## Using the microscope for capturing wing images **just for splining**
 
 ## Using the microscope for capturing wing images for **splining and/or wing hair counts**
