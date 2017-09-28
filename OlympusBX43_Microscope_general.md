@@ -34,7 +34,7 @@ This scope was purchased and optimized for two purposes.
     -    Highly compatible with:5-ROX,Alexa Fluor 568, mCherry, mRFP1 (but not mRFP).
     -    Compatabile with:DY-590, Propidium iodide
     -    Other compatible fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2683).
-    - [TRITC](https://www.semrock.com/setdetails.aspx?id=2681) from Semrock (OSF3-TRITC-A 1 TRITC-A-BASIC-OFF;BAND PASS FILTER SET TRITC, ALEXA 546, DII)
+- [TRITC](https://www.semrock.com/setdetails.aspx?id=2681) from Semrock (OSF3-TRITC-A 1 TRITC-A-BASIC-OFF;BAND PASS FILTER SET TRITC, ALEXA 546, DII)
     -    Highly Compatabile with dTomato 
     -    Compatabile with Alexa Fluor® 546, mRuby, Propidium Iodide (PI), TRITC (Tetramethylrhodamine) - "reddish" appearance
 
