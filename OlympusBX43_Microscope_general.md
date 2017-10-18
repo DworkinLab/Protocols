@@ -24,7 +24,7 @@ This scope was purchased and optimized for two purposes.
 ## Some specifics about the filters we have:
 - [DAPI filter](https://www.semrock.com/setdetails.aspx?id=2845) from Semrock (OSF-D50LPBX3, DAPI-50LP-A-OFF; 377/50X, BS409, 409M).
     -    Highly compatible with: Alexa Fluor 350, Alexa Fluor 405, Fluoro-Gold, LysoSensor Blue, Marina Blue, Pacific Blue).
-    -    Compatible with: DyLight 350,DyLight 405, Hoechst 33258, Hoechst 33342, Hoechst 34580).
+    -    Compatible with: DyLight 350,DyLight 405, Hoechst 33258, Hoechst 33342 (works very well), Hoechst 34580).
     -    See compatability with other fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2845).
 - [FITC filter](https://www.semrock.com/setdetails.aspx?id=2679) from Semrock (OSF3-FITC-A 1 FITC-A-BASIC-OFF;BAND PASS FILTER SET FITC, BODIPY, ALEXA488).
     -    Highly compatible with: Alexa Fluor 488, Fluo-4, FITC (Fluorescein).
