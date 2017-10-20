@@ -28,6 +28,7 @@ Antibody Staining of Imaginal discs and larval ovaries
 	•	To make 3ml PBTBS :
 		60ul GS(100% solution) + 40ul BSA(7.5% solution) + 2900ul PBT
 	        Do not vortex GS but BSA is vortex-able.
+    **Note** _It is important that your blocking proteins DO NOT originate in the species in which the primary antibody was raised. This can mess up the specificity of the secondary antibody. Also some like to specifically use blocking serum from the same species as the secondary antibody was produced in. Generally not necessary though._
 
 **Incubate with primary antibody**: in 1000ul of antibody w/ PBTBS overnight (O.N.) At 4 degrees Celsius. Some antibodies need to be pre-absorbed. 
 
