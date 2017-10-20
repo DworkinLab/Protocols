@@ -10,7 +10,9 @@ Antibody Staining of Imaginal discs and larval ovaries
 	•	4% paraformaldehyde dissolved in 1x PBS with 50mM EGTA  (from a 0.5M stock of EGTA - may require NaOH to dissolve). This solution should be made in advance (in the fumehood, on a stir/heating plate), and stored in 1mL aliquots at -20 degrees celsius. Mix well before adding fixative to tissues.
 	•	Be aware of that 4% paraformaldehyde with EGTA may not work. In that case, use 4% paraformaldehyde without EGTA.
 
-**Methanol**: Transfer tissue directly with forceps into a basket with methanol in a micro-titer plate. 500ul per well for 3~5 min. at RT. **Note:** _Some antibodies show low binding activity with methanol fixed tissues_.
+**Methanol**: Transfer tissue directly with forceps into a basket with methanol in a micro-titer plate. 500ul per well for 3~5 min. at RT.
+
+**Note:** _Some antibodies show low binding activity with methanol fixed tissues_.
 
 	•	for storage at -20 degrees, remove methanol & add 100% ethanol after methanol fixation.
 	•	Skip this step for alpha-CT antibody
@@ -28,7 +30,8 @@ Antibody Staining of Imaginal discs and larval ovaries
 	•	To make 3ml PBTBS :
 		60ul GS(100% solution) + 40ul BSA(7.5% solution) + 2900ul PBT
 	        Do not vortex GS but BSA is vortex-able.
-    **Note** _It is important that your blocking proteins DO NOT originate in the species in which the primary antibody was raised. This can mess up the specificity of the secondary antibody. Also some like to specifically use blocking serum from the same species as the secondary antibody was produced in. Generally not necessary though._
+
+**Note** _It is important that your blocking proteins DO NOT originate in the species in which the primary antibody was raised. This can mess up the specificity of the secondary antibody. Also some like to specifically use blocking serum from the same species as the secondary antibody was produced in. Generally not necessary though._
 
 **Incubate with primary antibody**: in 1000ul of antibody w/ PBTBS overnight (O.N.) At 4 degrees Celsius. Some antibodies need to be pre-absorbed. 
 
@@ -55,7 +58,9 @@ Antibody Staining of Imaginal discs and larval ovaries
 
 Pre-absorption step: Fix embryos as described in White (1998). Store in ethanol at -20 degrees C. Before using the embryos for pre-absorption, rinse X2, wash 3X5 minutes in PBT. In PBTBS, dilute antibody 1:10 (if possible), based on final concentration and amount of antibody to be used. Place diluted antibody 1:1 with embryos (i.e. equal volume of embryos and diluted antibody). Allow pre-absorption to occur for at least 1hr at room temperature, or O.N at 4 degrees Celsius. Dilute antibody to final concentration in PBTBS and use.
 
-anti-fade: From Goldstein (pp383):
+## Recipes for various solutions.
+
+### anti-fade: From Goldstein (pp383):
 
 - 1.25g DABCO (sigma D-2522)
 - Dissolved in 15mL PBS (1x). PBS should be at pH 7.4 (7.3-7.5 range)
@@ -65,7 +70,7 @@ anti-fade: From Goldstein (pp383):
 We also mix Hoechst into the anti-fade as a nuclear marker. Mix 1 microL Hoechst:10000 microL anti-fade. Sometimes this is not bright enough so we do 1:1000. This is stable for ~ 1 month in the freezer. Store Hoects at -20C for long term, and some at 4C for short term use (~6 months).
 
 
-4% para-formaldehyde:
+### 4% para-formaldehyde:
 
 1. 100mL 1xPBS
 2. Pour 1xPBS into a conical flask containing 4g of paraformadehyde (powder).
