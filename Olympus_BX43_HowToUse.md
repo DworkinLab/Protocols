@@ -1,8 +1,8 @@
-#How to use the Olympus BX43 for imaging adult Drosophila wings
+# How to use the Olympus BX43 for imaging adult Drosophila wings
 
 This is the first draft from Maria P (Summer 2016).
 
-Initial steps:
+## Initial steps:
 
 1. Uncover Microscope
 
@@ -10,19 +10,17 @@ Initial steps:
 
 3. Turn on computer
 
-4. Password for the computer is “drosophila”
-
-5. Open the software: CellSens Standard Software
+4. Open the software: CellSens Standard Software
 
 - You can close the Start page
 
-6. Remember to fill in the sign in sheet
+5. Remember to fill in the sign in sheet (are you using Fluorescence or brightfield).
 
 
 
-Koehler Illumination
+## Setting up Koehler Illumination
 
-Perform this at 10x
+Perform this at 10x magnification.
 
 1. Make sure the shutter is open
 
