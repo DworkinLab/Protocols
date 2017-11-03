@@ -1,16 +1,19 @@
 # How to use the Olympus BX43 for imaging adult Drosophila wings
 
+
+**PLEASE NOTE: Slides sealed with Nail Polish need to harden for at least 24 hours before they can be used at the microscope. The fumes (and the nail polish) can damage the objectives!!!**
+
 This is the first draft from Maria P (Summer 2016).
 
 ## Initial steps:
 
-1. Uncover Microscope
+1. Uncover BX43 Microscope
 
 2. Turn on Microscope
 
 3. Turn on computer
 
-4. Open the software: CellSens Standard Software
+4. Openthe software: CellSens Standard Software
 
 - You can close the Start page
 
