@@ -16,4 +16,6 @@ in addition to samtools checks and tools like samstat also consider
 
 [RSeQC](http://rseqc.sourceforge.net/). QC specifically for RNA seq. From their page "RSeQC package provides a number of useful modules that can comprehensively evaluate high throughput sequence data especially RNA-seq data. Some basic modules quickly inspect sequence quality, nucleotide composition bias, PCR bias and GC bias, while RNA-seq specific modules evaluate sequencing saturation, mapped reads distribution, coverage uniformity, strand specificity, transcript level RNA integrity etc."
 
-[qualimap](http://qualimap.bioinfo.cipf.es/). General purpose QC for sequence data with special tools for RNA seq data.
+[qualimap](http://qualimap.bioinfo.cipf.es/). General purpose QC for sequence data with special tools for RNA-seq data.
+
+[NOISeq](http://www.bioconductor.org/packages/release/bioc/html/NOISeq.html). General bioconductor/R library for RNA-seq, but includes a number of RNA-seq QC checks.
