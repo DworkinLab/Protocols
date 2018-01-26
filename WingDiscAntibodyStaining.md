@@ -62,14 +62,15 @@ Pre-absorption step: Fix embryos as described in White (1998). Store in ethanol 
 
 ## Recipes for various solutions.
 
-### anti-fade: From Goldstein (pp383):
+### anti-fade: From Goldstein (pp383): (with and without Hoechst)
 
 - 1.25g DABCO (sigma D-2522)
 - Dissolved in 15mL PBS (1x). PBS should be at pH 7.4 (7.3-7.5 range)
 - Add 35mL Ultra pure Glycerol
 - Mix Gently for ~1-2 hours and store in 500 microL aliquots at -20 degrees C.
 
-We also mix Hoechst into the anti-fade as a nuclear marker. Mix 1 uL Hoechst:10000 microL anti-fade. Sometimes this is not bright enough so we do 1:1000. This is stable for ~ 1 month in the freezer. Store Hoects at -20C for long term, and some at 4C for short term use (~6 months).
+We also mix Hoechst into the anti-fade as a general nuclear marker. Mix 1 uL Hoechst:10000 microL anti-fade. Sometimes this is not bright enough so we do 1:1000, depending on application.  Anti-fade with Hoechst is stable for ~1 month in the freezer. 
+Store Hoescht stock solution at -20C for long term, and some at 4C for short term use (stable for ~6 months).
 
 
 ### 4% para-formaldehyde:
