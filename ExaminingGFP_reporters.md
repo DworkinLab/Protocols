@@ -12,4 +12,4 @@ See [this page](https://github.com/DworkinLab/Protocols/blob/master/WingDiscAnti
 Remember that paraformaldehyde should be made fresh every 6 months (or else it produces chemical byproducts that quench GFP).
 Once a stock of 4% PF is made in a batch, freeze small aliquots. **Whole batch should be replaced every 6 months**. Check recipe in molecular lab!
 
-**Note:** It may be the changes to GFP are actually reversible. See [this paper](https://www.nature.com/articles/ncomms4992). i.e. treatment with alkaline buffer solutions (such as 0.1 M Na2CO3, pH=11.6). 
+**Note:** It may be the paraformaldehyde based changes to GFP are actually reversible. See [this paper](https://www.nature.com/articles/ncomms4992). i.e. treatment with alkaline buffer solutions (such as 0.1 M Na2CO3, pH=11.6). 
