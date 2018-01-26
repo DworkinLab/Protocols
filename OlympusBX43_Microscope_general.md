@@ -39,6 +39,11 @@ This scope was purchased and optimized for two purposes.
     -    Compatabile with Alexa Fluor® 546, mRuby, Propidium Iodide (PI), TRITC (Tetramethylrhodamine) - "reddish" appearance
 - [mCherry](https://www.semrock.com/setdetails.aspx?id=3354) from Semrock (OSF-MCHLEDBX3)
     -    Highly compatible with: Alexa Fluor® 594, DyLight 594, Alexa Fluor® 568, 5-ROX (carboxy-X-rhodamine), ATTO 590, BOBO™-3, BODIPY TR-X phallacidin, Calcium Crimson, CellTracker Red CMTPX, FluoSpheres Red fluorescent microspheres, HCS LipidTOX Red neutral lipid stain, HCS LipidTOX Red phospholipidosis, HiLyte Fluor™ 594, KFP-Red, mCherry, MitoTracker™ Red, mPlum, mRFP1, ReAsH-CCPGCC, Red 580, Texas Red dextran, Texas Red DHPE, Texas Red-X®, TurboFP635(Katushka), X-Rhod-1 Indicator, SNARF (carboxy) 514 Excitation pH9, SNARF-1 488nm (ph 9.0), SNARF-1 514nm (ph 9.0)
+    -    Other compatable fluorophores [here](https://www.semrock.com/setdetails.aspx?id=3354).
+    
+- [GFP](https://www.semrock.com/setdetails.aspx?id=2942) from Semrock (OSF3-GFP-3035D)
+    -    Highly comptabile with: GFP (EGFP), Cy2™, DiO, sgGFP™ (super glow GFP), wtGFP (wild type GFP, non-UV excitation), YO-PRO-1, YOYO-1
+    - Other compatible fluorophores [here](https://www.semrock.com/setdetails.aspx?id=2942)
 
    
 ## Using the microscope for capturing wing images **just for splining**
