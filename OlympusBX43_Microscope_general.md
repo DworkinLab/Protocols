@@ -16,7 +16,7 @@ This scope was purchased and optimized for two purposes.
 
 - This microscope does not do Nomarksi (Differential Interference Contrast), or phase contrast. If you need this for your project, let me know as there are several other excellent microscopes in the building with this capability.
 
-- The current filters for fluorescent microscopy are for [DAPI](https://en.wikipedia.org/wiki/DAPI), [Texas Red](https://en.wikipedia.org/wiki/Texas_Red) (possibly including Alexa594, DyLight594?), Fluorescien/[FITC](https://en.wikipedia.org/wiki/Fluorescein_isothiocyanate) (Alexa 488, DyLight488), and [TRITC]().
+- The current filters for fluorescent microscopy are for [DAPI](https://en.wikipedia.org/wiki/DAPI), [Texas Red](https://en.wikipedia.org/wiki/Texas_Red) (possibly including Alexa594, DyLight594?), Fluorescien/[FITC](https://en.wikipedia.org/wiki/Fluorescein_isothiocyanate) (Alexa 488, DyLight488), [TRITC](), GFP and mCherry. More information on each of the filter sets is below.
 
 - As is commonly the case, the higher magnification lenses (10X, 20X and 40X) need to be used with the condensor in, so you will need to set up the microscope under [Kohler Illumination](http://microscopy.berkeley.edu/courses/TLM/condenser/kohler.html). This takes less than 1 minute, and is worth checking each time when you are using the scope.
 
@@ -37,6 +37,8 @@ This scope was purchased and optimized for two purposes.
 - [TRITC](https://www.semrock.com/setdetails.aspx?id=2681) from Semrock (OSF3-TRITC-A 1 TRITC-A-BASIC-OFF;BAND PASS FILTER SET TRITC, ALEXA 546, DII)
     -    Highly Compatabile with dTomato 
     -    Compatabile with Alexa Fluor® 546, mRuby, Propidium Iodide (PI), TRITC (Tetramethylrhodamine) - "reddish" appearance
+- [mCherry](https://www.semrock.com/setdetails.aspx?id=3354) from Semrock (OSF-MCHLEDBX3)
+    -    Highly compatible with: Alexa Fluor® 594, DyLight 594, Alexa Fluor® 568, 5-ROX (carboxy-X-rhodamine), ATTO 590, BOBO™-3, BODIPY TR-X phallacidin, Calcium Crimson, CellTracker Red CMTPX, FluoSpheres Red fluorescent microspheres, HCS LipidTOX Red neutral lipid stain, HCS LipidTOX Red phospholipidosis, HiLyte Fluor™ 594, KFP-Red, mCherry, MitoTracker™ Red, mPlum, mRFP1, ReAsH-CCPGCC, Red 580, Texas Red dextran, Texas Red DHPE, Texas Red-X®, TurboFP635(Katushka), X-Rhod-1 Indicator, SNARF (carboxy) 514 Excitation pH9, SNARF-1 488nm (ph 9.0), SNARF-1 514nm (ph 9.0)
 
    
 ## Using the microscope for capturing wing images **just for splining**
