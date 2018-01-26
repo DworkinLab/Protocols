@@ -8,7 +8,7 @@ Antibody Staining of Imaginal discs and larval ovaries
 **Fixation**: Fix 20 min. at room temperature (RT). Keep the tube/plate with tissue on a nutator throughout this, and all subsequent steps. 
 
 	•	4% paraformaldehyde dissolved in 1x PBS with 50mM EGTA  (from a 0.5M stock of EGTA - may require NaOH to dissolve). 
-	This solution should be made in advance (in the fumehood, on a stir/heating plate), and stored in 1mL aliquots at -20 degrees celsius. Mix well before adding fixative to tissues.
+	This solution should be made in advance (in the fumehood, on a stir/heating plate), and stored in 1mL aliquots at -20 degrees celsius. Mix well before adding fixative to tissues. See recipe below for making the 4% paraformaldehyde.
 	•	Be aware that 4% paraformaldehyde with EGTA may not work for all antibodies.
 	In that case, use 4% paraformaldehyde without EGTA.
 
@@ -23,7 +23,7 @@ Antibody Staining of Imaginal discs and larval ovaries
 
 	•	PBT = 1x PBS & 0.1% Tween-20. This is a good time to “clean-up” tissues post fixation (remove fat etc.)
 	•	Make 50ml in a tube. Do not vortex PBT. Gently invert several times.
-	•	Be aware of that Tween-20 has a high viscosity.
+	•	Be aware that Tween-20 has a high viscosity, so pipette carefully.
 
 **Blocking**: in 750~1000ul of  PBTBS from 1 hour to overnight (O.N.) at 4 degrees. 
 
@@ -46,7 +46,7 @@ Antibody Staining of Imaginal discs and larval ovaries
 
 **Incubate with Secondary antibody**: 3hr to O.N. At 4 degrees Celsius. Secondary antibodies may also be pre-absorbed in PBTBS. For fluorescently labelled antibodies, long incubations tends to increase background levels. For Jackson laboratories antibodies dilutions of 1:400~1:600 work well.
 
-	•	for imaginal disk secondary antibodies, use 1:1000 dilution.
+	•	for imaginal disc secondary antibodies, use 1:1000 dilution.
 
 **Wash**:As above
 
@@ -69,7 +69,7 @@ Pre-absorption step: Fix embryos as described in White (1998). Store in ethanol 
 - Add 35mL Ultra pure Glycerol
 - Mix Gently for ~1-2 hours and store in 500 microL aliquots at -20 degrees C.
 
-We also mix Hoechst into the anti-fade as a nuclear marker. Mix 1 microL Hoechst:10000 microL anti-fade. Sometimes this is not bright enough so we do 1:1000. This is stable for ~ 1 month in the freezer. Store Hoects at -20C for long term, and some at 4C for short term use (~6 months).
+We also mix Hoechst into the anti-fade as a nuclear marker. Mix 1 uL Hoechst:10000 microL anti-fade. Sometimes this is not bright enough so we do 1:1000. This is stable for ~ 1 month in the freezer. Store Hoects at -20C for long term, and some at 4C for short term use (~6 months).
 
 
 ### 4% para-formaldehyde:
