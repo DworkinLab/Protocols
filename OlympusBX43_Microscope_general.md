@@ -3,13 +3,13 @@
 These are some general notes for using the Olympus BX 43 "upright" microscope in room 413LSB.
 
 ## General Microscopy links (primers and such)
-1. [Microscopy Resource center](http://micro.magnet.fsu.edu/primer/index.html). From very basic to very detailed. You could spend weeks on this site!
+1. [Microscopy Resource center](http://micro.magnet.fsu.edu/primer/index.html). From very basic to very detailed. You could spend weeks on this site! Also these sites [here](https://www.olympus-lifescience.com/en/microscope-resource/) and [here](http://olympus.magnet.fsu.edu/primer/digitalimaging/index.html)
 2. [Basics of light microscopy guide](http://www.well.ox.ac.uk/_asset/file/the-zeiss-guide-to-the-basics-of-light-microscopy.pdf)
 3. [Guide to image acquisition](http://jcb.rupress.org/content/172/1/9.full)
 
 ##General notes
 This scope was purchased and optimized for two purposes. 
-1. Getting very high quality images at relatively low magnification (2.5X and 4X objectives). In particular for adult morphological structures of Drosophila (wings and legs). These use plan apochromatic objectives (to maximize resolution and flatness of field).
+1. Getting very high quality images at relatively low magnification (2X and 4X objectives). In particular for adult morphological structures of *Drosophila* (wings and legs). This system has plan apochromatic objectives (to maximize resolution and flatness of field).
 2. Getting high quality images of the developing structures (imaginal discs) for wings, legs, etc. We also have the plan apochromatic objectives for these. At higher magnification parallaxes increases (less flatness of field).
 
 - As such, this scope has the highest quality 2X, 4X, 10X, 20X and 40X objectives (PLAN- apochromatic, see [here](http://www.olympus-lifescience.com/en/objectives/uplsapo/)  and [here](http://www.olympus-lifescience.com/en/objectives/plapon/) for more details. In particular these objectives had the highest numerical aperature I could afford, which (in combination with a good camera) should provide excellent detail of the images, including for counting wing hairs (cells) on the wing. These are also corrected for flatness of image (PLAN). However we still have to empirically test how well this flatness correction works (parallax distortions near edge).
