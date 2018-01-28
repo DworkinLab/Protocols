@@ -6,6 +6,14 @@ Use: PBS is used as a general saline buffer for dissection of imaginal discs (an
 
 **Note:** For routine use of PBS (for mountants for instance) homemade 10X PBS is fine. For applications for RNA extraction, we typically by PBS that is certified RNase free.
 
+There are many variants of PBS recipes. This one for 10X PBS is from the *Drosophila* protocols book (CSHL Press, 2000) page 656. It Makes 1L of 10X PBS.
+
+- 80 g NaCl
+- 2g KCl
+- 14.4 g Na_2HPO_4
+- 2.4 g KH_2PO_4
+- 800 mL milliQ autoclaved water.
+
 
 ## PBT (with Tween-20 as the detergent)
 
@@ -42,7 +50,9 @@ Use: Fixative for immunofluorescence (antibody staining).
 5. When the para-formaldehyde is dissolved (solution is clear), switch off only the heat (keep stirrer on), and allow to cool.
 6. When it is cool, aliquot (0.5 mL/tube) and store at -20C.
 
-## anti-fade: From Goldstein (pp383): (with and without Hoechst)
+## anti-fade mountant for fluorescent samples: From Goldstein (pp383): (with and without Hoechst)
+
+use: This is used as a mountant for samples where flourescence (i.e. GFP, antibodies conugated with fluorescent probe, DAPI, Hoechst) is going to be examined. Anti-fade prolongs the functional life of the samples.
 
 1. 1.25g DABCO (sigma D-2522)
 2. Dissolved in 15mL PBS (1x). PBS should be at pH 7.4 (7.3-7.5 range)
