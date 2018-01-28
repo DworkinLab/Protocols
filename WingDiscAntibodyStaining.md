@@ -75,10 +75,14 @@ Store Hoescht stock solution at -20C for long term, and some at 4C for short ter
 
 ### 4% para-formaldehyde:
 
+**Notes:** Wear gloves, lab coat and mask (PF is not good for you). Do all of it in fumehood. Paraformaldyhe sticks to everything,even after washings, so use dedicated flasks, weighing boats, etc...
+
+Also, since PF only lasts for ~6 months (before it starts producing by products like methanol), it may be worth making smaller amounts of this recipe (so scale it down to 25mL for instance).
+
 1. 100mL 1xPBS
 2. Pour 1xPBS into a conical flask containing 4g of paraformadehyde (powder).
 3. Cover with parafilm and take to fumehood.
 4. Place flask on the top of the hot plate with stirrer inside fumehood.  Set heat control to 60-65 celsius with moderate stirring. Allow solution to warm up.
 5. When the para-formaldehyde is dissolved (solution is clear), switch off only the heat (keep stirrer on), and allow to cool.
 6. When it is cool, aliquot (0.5 mL/tube) and freeze.
-Notes: Wear gloves, lab coat and mask (PF is not good for you). Do all of it in fumehood.
+
