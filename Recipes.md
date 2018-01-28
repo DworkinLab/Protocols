@@ -19,6 +19,13 @@ Use: PBS buffer with detergent. Detergent increases permeability of cell membran
 
 Use:
 
+## Glycerol/PBS mounting solution for adult wings.
+
+Use: This is a quick and useful mountant for adult *Drosophila* wings. Wings mounted in this are generally good enough for wing size (area), morphometrics and trichome counts. Mounted wings stored at room temperature start to degrade after 9-12 months.
+
+1. Mix a solution that is 70% Glycerol and 30% 1X PBS (V/V), add a few crystals of phenol to solution. Mix on nutator for 1-2 hours, then aliquot.
+1b. For 40mL of the solution this is 28mL of glycerol with 12mL of PBS. You may wish to centrifuge the glycerol first unless it is molecular grade.
+
 ## 4% Paraformaldehyde
 
 Use: Fixative for immunofluorescence (antibody staining).
