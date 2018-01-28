@@ -57,7 +57,10 @@ Use: Fixative for immunofluorescence (antibody staining).
 
 ## anti-fade mountant for fluorescent samples: From Goldstein (pp383): (with and without Hoechst)
 
+
 use: This is used as a mountant for samples where flourescence (i.e. GFP, antibodies conugated with fluorescent probe, DAPI, Hoechst) is going to be examined. Anti-fade prolongs the functional life of the samples.
+
+### DABCO (1,4-diazabicyclo[2.2.2]octane) based anti-fade mountant.
 
 1. 1.25g DABCO (sigma D-2522)
 2. Dissolved in 15mL PBS (1x). PBS should be at pH 7.4 (7.3-7.5 range)
