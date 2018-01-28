@@ -10,7 +10,10 @@ https://www.thermofisher.com/ca/en/home/references/protocols/cell-and-tissue-ana
 
 
 ## Hoechst
+
 Notes about hoechst concentration for various protocols
+
+Very useful primers on using Hoechst dyes [here](https://tools.thermofisher.com/content/sfs/manuals/mp21486.pdf) and [here](https://en.wikipedia.org/wiki/Hoechst_stain). Some takeaways. Dissolve Hoechst in water or DMSO to make stock solution, but not PBS. Also Hoechst 33342 has better cell permeability than Hoechst 33258. Hoechst is less toxic to cells than DAPI, so better for FACS (?). Final concentrations recommended for fixed animal cells in the 0.2 - 2ug/mL range.
 
 Hoechst (stock concentrations either 1mg/mL or 10mg/mL). typically dilute Hoechst stock 1:2000 or so.
 0.2 - 2 µg/ml final(?) - the range of 1-10 µg/mL
