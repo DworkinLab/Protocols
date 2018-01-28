@@ -35,6 +35,13 @@ Use: Fixative for immunofluorescence (antibody staining).
 5. When the para-formaldehyde is dissolved (solution is clear), switch off only the heat (keep stirrer on), and allow to cool.
 6. When it is cool, aliquot (0.5 mL/tube) and store at -20C.
 
-## anti-fade mountant (for immunofluorescence).
+## anti-fade: From Goldstein (pp383): (with and without Hoechst)
 
-Use: 
+1. 1.25g DABCO (sigma D-2522)
+2. Dissolved in 15mL PBS (1x). PBS should be at pH 7.4 (7.3-7.5 range)
+3. Add 35mL Ultra pure Glycerol
+4. Mix Gently for ~1-2 hours and store in 500 microL aliquots at -20 degrees C.
+
+- We also mix Hoechst into the anti-fade as a general nuclear marker. Mix Hoechst 33342 to a final concentration of 1 ug/mL. Exact amount depends on stock concentration. Sometimes this is not bright enough so you can go as high as a final concentration of 10 ug/mL (but try 2, 5 before making jump to 10) depending on application.  
+- Anti-fade with Hoechst is stable for ~1 month in the freezer. 
+- Store Hoescht stock solution at -20C for long term, and some at 4C for short term use (stable for ~6 months).
