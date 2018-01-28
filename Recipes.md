@@ -10,8 +10,8 @@ There are many variants of PBS recipes. This one for 10X PBS is from the *Drosop
 
 - 80 g NaCl
 - 2g KCl
-- 14.4 g Na_2HPO_4
-- 2.4 g KH_2PO_4
+- 14.4 g Na~2~HPO~4~
+- 2.4 g KH~2PO~4~
 - 800 mL milliQ autoclaved water.
 
 
