@@ -8,11 +8,16 @@ Use: PBS is used as a general saline buffer for dissection of imaginal discs (an
 
 There are many variants of PBS recipes. This one for 10X PBS is from the *Drosophila* protocols book (CSHL Press, 2000) page 656. It Makes 1L of 10X PBS.
 
-- 80 g NaCl
+- 80g NaCl
 - 2g KCl
 - 14.4 g Na<sub>2</sub>HPO<sub>4</sub>
 - 2.4 g KH<sub>2</sub>PO<sub>4</sub>
 - 800 mL milliQ autoclaved water.
+
+1. Combine all components in the 800mL H<sub>2</sub>O and stir to dissolve.
+2. Adjust pH to 7.2
+3. Adjust volume to 1 litre (1000 mL) with autoclaved milliQ water.
+4. Dispense in convenient volumes and sterilize by autoclaving. Store at room temperature.
 
 
 ## PBT (with Tween-20 as the detergent)
