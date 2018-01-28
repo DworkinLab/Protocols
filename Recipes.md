@@ -1,6 +1,6 @@
 # Recipes for stock solutions and other reagents for the lab.
 
-## Phosphate Buffered Sailine (PBS)
+## Phosphate Buffered Saline (PBS)
 
 Use: PBS is used as a general saline buffer for dissection of imaginal discs (and other tissues) for RNA extraction, antibody stainings, examining GFP reporters in discs etc.. Also used as component for other solution (i.e. PBS/glycerol) for mounting.
 
@@ -22,6 +22,18 @@ Use:
 ## 4% Paraformaldehyde
 
 Use: Fixative for immunofluorescence (antibody staining).
+
+**Notes:** 
+- Wear gloves, lab coat and mask (PF is not good for you). Do all of it in fumehood. Paraformaldyhe sticks to everything,even after washings, so use dedicated flasks, weighing boats, stirring rods, etc...
+
+- Since PF only lasts for ~6 months (even frozeb) before it starts producing byproducts that may cause problems, it may be worth making smaller amounts of this recipe (so scale it down to 25mL for instance). This will depend on needs in the lab.
+
+1. Measure 100mL 1xPBS
+2. Pour 1xPBS into a conical flask containing 4g of paraformadehyde (powder). Note: I move small scale to fumehood for weighing.
+3. Cover with parafilm and take to fumehood.
+4. Place flask on the top of the hot plate with stirrer inside fumehood (or manually mix flask every few minutes).  Set heat control to 60-65 celsius with moderate stirring. Allow solution to warm up.
+5. When the para-formaldehyde is dissolved (solution is clear), switch off only the heat (keep stirrer on), and allow to cool.
+6. When it is cool, aliquot (0.5 mL/tube) and store at -20C.
 
 ## anti-fade mountant (for immunofluorescence).
 
