@@ -26,7 +26,7 @@ Use: PBS buffer with detergent. Detergent increases permeability of cell membran
 
 ## PBT (Triton-X)
 
-Use: PBS buffer with detergent. Detergent increases permeability of cell membrane (breaks wholes in cell membrane), to allow passage of small molecules (like antibodies).
+Use: PBS buffer with detergent. Detergent increases permeability of cell membrane (breaks holes in cell membrane), to allow passage of small molecules (like antibodies).
 
 ## PBTBS (PBT with blocking solution)
 
@@ -57,17 +57,25 @@ Use: Fixative for immunofluorescence (antibody staining).
 
 ## anti-fade mountant for fluorescent samples: From Goldstein (pp383): (with and without Hoechst)
 
-
 use: This is used as a mountant for samples where flourescence (i.e. GFP, antibodies conugated with fluorescent probe, DAPI, Hoechst) is going to be examined. Anti-fade prolongs the functional life of the samples.
 
 ### DABCO (1,4-diazabicyclo[2.2.2]octane) based anti-fade mountant.
 
-1. 1.25g DABCO (sigma D-2522)
+Note: This makes 50mL of antifade. Depending on lab uses in the next 6-12 months you may wish to decrease (or increase) the amount you make. Ask your fellow researchers in the lab!
+
+1. 1.25g DABCO (sigma D-2522) (2.5%)
 2. Dissolved in 15mL PBS (1x). PBS should be at pH 7.4 (7.3-7.5 range)
 3. Add 35mL Ultra pure Glycerol
 4. Mix Gently for ~1-2 hours and store in 500 microL aliquots at -20 degrees C.
 
+- Some protocols use 1% DABCO, not 2.5% I have not tested this. Also some make the mountant in 90% Glycerol/ 10% PBS. I have not tried this either.
+- An alternative to DABCO is to use n-propyl gallate (usually at 4%), in the glycerol/PBS mountant. I have not tried this.
+- Read [here](https://www.bio.umass.edu/microscopy/doc/antifade.htm) and [here](http://www.biocenter.helsinki.fi/bi/lmu/images/Mountants.pdf) for more information.
+
+### Adding Hoechst or DAPI to anti-fade mountant as a nuclear co-stain.
 - For more information on using Hoechst or DAPI in our lab see [here](https://github.com/DworkinLab/Protocols/blob/master/SomeNotesOnHoechstAndDapi.md).
 - We also mix Hoechst into the anti-fade as a general nuclear marker. Mix Hoechst 33342 to a final concentration of 1 ug/mL. Exact amount depends on stock concentration. Sometimes this is not bright enough so you can go as high as a final concentration of 10 ug/mL (but try 2, 5 before making jump to 10) depending on application.  
 - Anti-fade with Hoechst is stable for ~1 month in the freezer. 
 - Store Hoescht stock solution at -20C for long term, and some at 4C for short term use (stable for ~6 months).
+
+### Othe
