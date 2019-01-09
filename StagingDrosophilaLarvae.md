@@ -31,6 +31,8 @@ For mid third instar you could do the half way point between the mean time to mo
 ## Some useful references
 In Ashburner et al. *Drosophila* A laboratory Handbook (big book, light blue cover) see chapter 6, in particular figures 6.15 (mouthparts for different larval instars), 6.16 (anterior spiracles), table 6.7 (number of teeth in mouthhooks), Fig 6.18 and 6.22. Essentially pages 150-157.
 
+In Demeric (ed.) Biology of *Drosophila* (smaller forest green book, usually in the fly room), see chapter 4, but in particular pages 283-287, 294-298. Figure 4 in this chapter has a useful picture of both moutparts and anterior spiracles.
+
 Oliviera et al. (2014). Coordination of Wing and Whole-Body Development at Developmental Milestones Ensures Robustness against Environmental and Physiological Perturbations. PLoS Genetics [Link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004408)
 
 Cohen S (1993) Imaginal disc development. In: Bate M, Martinez-Arias A (eds) The development of drosophila melanogaster. Cold Spring Harbor Laboratory Press. Available at McMaster Library. Some very useful information.
