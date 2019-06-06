@@ -10,10 +10,10 @@ specifically RNAseq or Q RT PCR, **NOT** for RNA in-situ hybdrizations.
 
 4 - Probably obvious, but if you see obvious damage to discs, don't use them. The stress response is quite substantial.
 
-5-  We store discs in RNAlater at -20C. for large tissues most labs will keep them at 4C overnight and then transfer to -20C, but discs are so small that the RNAlater penetrates almost immediately in our experience. However, you could do the O.N. at 4C and then to -20C for long term storage.
+5 -  We store discs in RNAlater at -20C. for large tissues most labs will keep them at 4C overnight and then transfer to -20C, but discs are so small that the RNAlater penetrates almost immediately in our experience. However, you could do the O.N. at 4C and then to -20C for long term storage.
 
 
-6. Comments for dissecting in RNAlater (provided by Baldur Kristjánsson from the Palsson lab at the U. Iceland).
+6 - Comments for dissecting in RNAlater (provided by Baldur Kristjánsson from the Palsson lab at the U. Iceland).
 For dissecting in RNAlater, you can do an initial partial dissection of the larvae (i.e. just inverting larvae, or opening up pupal cases), let them absorb the RNAlater (all at 4C) for a few hours then store at -20C prior to doing the fine dissection.
 Dissecting in RNAlater is similar to dissecting in PBS e.g. you keep it on ice, however you do not have to worry as much about timing as you do with PBS. RNAlater feels kind of viscous when you are moving the larva in it but they also tend to float so it can be quite hard to manage them on the plate. This also applies to the discs when you have isolated them, they to float around and its easy to loose them. RNAlater changes larval tissue and they become sort of brittle and it is easier to collect the wing discs, remember to remove the trachea (also applies for PBS dissections). However, the wing discs can also fall off easier and get lost in the eppendorf. It is fairly easy to isolate wing discs from inverted larvae but if you intent to collect other tissues as well like brain or other imaginal discs it become trickier. Brains get very deformed in RNAlater and difficult to disentangle from the rests other imaginal discs are harder to find than in "live" larvae but maybe that is my lack of experience with other discs.
 
