@@ -8,9 +8,9 @@
  This was our standard recipe for papers published between 2007 - 2020 for work done in the Dworkin lab (MSU or McMaster)
  For a single  batch of the food (we usually make 4X batches):
  - 4.25L of (dd) water
- - 390g unsulphured Molasses (either  Monarch (Light Unsulphured) Molasses which turns out to be 50% “fancy” and 50% blackstrap. In Canada we mix the two types of Molasses 1/1 (weight).
+ - 390g unsulphured Molasses (either  Monarch (Light Unsulphured) Molasses which turns out to be 50% “fancy” and 50% blackstrap. In Canada we mix the two types of Molasses 1/1 (weight). In Canada purchased at Costco.
  - 27g Carageenan, Maltodextrin Colloid 710 H-96 Powder (www.caldic.com).
- - 245g cornmeal
+ - 245g cornmeal (usually Unico brand).
  - 50g yeast (red star, purchased at CostCo)
  - 12mL propionic acid
  - 25mL of 10% (in ethanol) methyl paraben
